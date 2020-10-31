@@ -58,7 +58,7 @@ public class Cinema {
         }
         else
         {
-            int h1=(a/2);int h2=(a-(a/2));
+            int h1=(a/2);
 
             if(r1<=h1)
             {System.out.println("\nTicket price: $"+(10));cost+=10;}
